@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Quotes about me!
+### Favourite Quotes
  - Oh my god, your tall - @Instafluff TwitchCon 2019
  - Andy, have another drink - @csharpfritz TwitchCon 2019
 
