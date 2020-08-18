@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### Quotes about me!
  - Oh my god, your tall - @Instafluff TwitchCon 2019
  - Andy, have another drink - @csharpfritz TwitchCon 2019
- - 
 
 ### Who?
 
