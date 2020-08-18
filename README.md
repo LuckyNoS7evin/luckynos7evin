@@ -33,7 +33,7 @@ I've been a broadcaster for heading towards 4 years now, however, I'm also inter
 
 This year has been a massive change in my life. I quit full-time employment to run my on company [Slevinth Heaven Ltd](https://slevinthheaven.com) in which my first major client was [Twitch](https://twitch.tv). We created and expanded [featured.chat](https://featured.chat) and developed 3 proof of concept projects.
 
-During the 6 months I was working with Twitch, I spent some time helping The Live Coders put together two conferences and help run a third. A few blog posts and speaking engagements at online meetups and spending time with family in these uncertain times has made for an interesting 2020.
+During the 6 months working with Twitch, I spent some time helping The Live Coders put together two conferences and help run a third. A few blog posts and speaking engagements at online meetups and spending time with family in these uncertain times has made for an interesting 2020.
 
 I have recently started the development of a new .Net SDK for telemetry data from racing games, for example F1 2020, GRID, Dirt Rally, iRacing and more. This is an open source project and although early days can be found at [S7evemetry](https://github.com/LuckyNoS7evin/s7evemetry).
 
